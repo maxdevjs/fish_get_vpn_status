@@ -1,2 +1,3 @@
-# get_vpn_status
-vpn status in Fish shell right prompt
+# fish_get_vpn_status
+
+vpn status in right Fish shell prompt
