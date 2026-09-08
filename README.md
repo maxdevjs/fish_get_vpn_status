@@ -24,13 +24,13 @@ With [Fisher](https://github.com/jorgebucaran/fisher):
 $ fisher install maxdevjs/fish_get_vpn_status
 ```
 
-```
-
 ## TODO
 
 - [ ] how to add the other scripts?
 - [ ] include `systemd` configuration
 - [ ] refactor the scripts to accept custom emojis
 - [ ] ...
+
+```
 
 ```
