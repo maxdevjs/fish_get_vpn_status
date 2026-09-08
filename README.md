@@ -14,6 +14,8 @@ vpn status in right [Fish](https://fishshell.com/) shell prompt
 ![VPN On](./media/vpn-on.png)
 ![VPN Off](./media/vpn-off.png)
 
+Terminal: [kitty](https://sw.kovidgoyal.net/kitty/)
+
 ## Installation
 
 With [Fisher](https://github.com/jorgebucaran/fisher):
