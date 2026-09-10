@@ -1,6 +1,6 @@
 # fish_get_vpn_status
 
-> Absolutely WIP
+> Absolutely > [WIP](https://en.wikipedia.org/wiki/Work_in_process)
 
 > NOTE: this is only the prompt.
 > It depends on a couple fish functions that are
